@@ -1,0 +1,15 @@
+Bryce Hayworth's Phase 1 project.
+
+Hello and welcome to my first solo project. Here I have wrtten an index.html, script.js, and style.css. 
+
+These three code files work together to mock up a website which pulls information from a public API and displays it in the form of "cards." 
+
+These cards display names, emails, address, and phone numbers of the mock individuals from the API. 
+
+In addition to these cards there is a search bar, which when used, will filter through the names on the cards, letter by letter, and hide any card that doesn't match. This would be especially beneficial with a larger API with hundreds of contacts where you wouldn't be able to see them all on one screen.
+
+I have a number of event listeners, which include "input", (for the search box, and also filtering through the resulting and hiding those that dont match) "mouseover", (changes the border of the cards to red when the mouse hovers over) "mousedown", (changes the border of the cards to blue when you click on it) and "mouseleave", (returns the card back to its original border color when you move the mouse off of that card.) 
+
+Lastly, my "app" has a night mode/a light/dark toggle button. 
+
+This project was really beneficial to me by forcing me to really focus on the code itself and figure how it works. I feel like I have a better understanding now of the way everything works together than I did before starting the Phase-1 project. 
